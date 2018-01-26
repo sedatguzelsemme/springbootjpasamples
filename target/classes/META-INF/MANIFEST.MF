@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-tut1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sedat
+Implementation-Vendor-Id: com.guzelsemme
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-t
+ ut1/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
