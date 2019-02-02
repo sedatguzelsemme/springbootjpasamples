@@ -19,7 +19,7 @@ public class DirectoryInfoService {
 	
 	
 	public void getMahmutsService(){
-		directoryRepository.getAllMahmuts();
+		directoryRepository.getAllAnnouncement();
 	}
 	
 }

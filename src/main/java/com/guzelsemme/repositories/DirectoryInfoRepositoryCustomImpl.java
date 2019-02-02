@@ -16,8 +16,8 @@ public class DirectoryInfoRepositoryCustomImpl implements DirectoryInfoRepositor
     }
 
 	@Override
-	public List<Object> getAllMahmuts() {
-		// TODO Auto-generated method stub
+	public List<Object> getAllAnnouncement() {
+		
 		return null;
 	}
 }
